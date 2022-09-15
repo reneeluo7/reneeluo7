@@ -4,9 +4,7 @@
 ![giphy](https://user-images.githubusercontent.com/103155560/190479985-b76e15b6-dd77-42d4-aca0-90fea7124b07.gif)
 
 
-Hi👋, I'm Renee, a full-stack software engineer with experience in React, Redux, Javascript, Python, Flask, Express, SQL, SQLite. I have a background in nursing, master in Gerontology due to my strong compassion and empathy to those vulnerable people. I worked as nurse, social worker, which trained my communication skills and then became a program director. Working as a director developed my leadership skills, enhanced my problem-solving, how to break down a problem and find out the critical part as well as assign it to the right team member to solve the issue. That journey guided me to become a Software Engineer. 
-
-I completed the curriculum at App Academy, a 24-week bootcamp that is highly intensive and requires efficient and quick learning. Building an application from scratch is a rewarding thing for me. I love to create new things and solve all kinds of problems. I keep myself constantly growing and I am continue working on perfecting my skills as a Software Engineer. I have a passion to let technology benefit all vulnerable population.
+I completed the curriculum at App Academy, a 24-week, over 1000+ hours bootcamp, that is highly intensive and requires efficient and quick learning. Building applications from scratch is a rewarding thing for me. I love to create new things and solve all kinds of problems. I keep myself constantly growing and I am continue working on perfecting my skills as a Software Engineer. I have a passion to let technology benefit all vulnerable population.
 
 - 🔭 I’m currently working on building out Renmo 
 - 🌱 I’m currently learning AWS 

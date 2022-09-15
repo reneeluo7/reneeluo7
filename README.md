@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Renee(Rongrong) Luo
-### I am Full-Stack Software Engineer 
+## Hi there 👋, my name is Renee(Rongrong) Luo
+## I am a Full-Stack Software Engineer 
 
 ![giphy](https://user-images.githubusercontent.com/103155560/190479985-b76e15b6-dd77-42d4-aca0-90fea7124b07.gif)
 

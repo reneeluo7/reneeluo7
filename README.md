@@ -4,7 +4,11 @@
 ![giphy](https://user-images.githubusercontent.com/103155560/190479985-b76e15b6-dd77-42d4-aca0-90fea7124b07.gif)
 
 
-I completed the curriculum at App Academy, a 24-week, over 1000+ hours bootcamp, that is highly intensive and requires efficient and quick learning. Building applications from scratch is a rewarding thing for me. I love to create new things and solve all kinds of problems. I keep myself constantly growing and I am continue working on perfecting my skills as a Software Engineer. I have a passion to let technology benefit all vulnerable population.
+I successfully completed the rigorous curriculum at App Academy, a 24-week, over 1000+ hours bootcamp renowned for its intensive and fast-paced learning environment. Building applications from scratch is not only a challenge but also deeply rewarding for me. I am driven by a genuine love for creating innovative solutions and tackling complex problems.
+
+My journey as a Software Engineer is characterized by continuous growth and a relentless pursuit of excellence. I am dedicated to honing my skills and staying updated with the latest industry trends and technologies. More than just a career, software development is my passion, and I am committed to pushing the boundaries of what is possible.
+
+Beyond technical expertise, I am fueled by a strong desire to leverage technology for the betterment of society, particularly for vulnerable populations. I believe that technology has the power to drive positive change and improve the lives of people around the world. I am excited about the opportunity to apply my skills and passion to create meaningful impact in the lives of others.
 
 - 🔭 I’m currently working on building out Renmo 
 - 🌱 I’m currently learning AWS 
